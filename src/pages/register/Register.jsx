@@ -11,6 +11,7 @@ const Register = () => {
                     <span>Do you have an account?</span>
                     <Link to={"/login"}>
                     <button>Login</button>
+                    navbar
                     </Link>
                 </div>
                 <div className="right">
